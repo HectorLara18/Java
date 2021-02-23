@@ -1,0 +1,32 @@
+Creador de Java James Goslin
+creado en SUN microsystem 
+comprado con Oracle
+
+Java es un lenguaje de programacion de alto nivel
+
+Categorias de Java
+
+SE: Standard Edition
+EE: Enterprise Edition
+
+WORA -> Write once Run Anywhere
+
+JDK -> Java Development Kit 
+    Java Runtime Enviroment JRE
+    Compilador de Java
+    API de desarrollo
+
+la primera verion de java SE 11 es la primera que cobra 
+
+Archivos .java -> codigo fuene 
+Compilador javac -> se compija en jvm
+se convierte en lenguaje maquina byte code 
+se ejecta jvm
+
+1. Editar
+2. Compilar
+3. cargar
+4. verificar
+5. interpretar
+
+es compilado e interpretado 
