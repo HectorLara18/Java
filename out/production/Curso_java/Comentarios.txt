@@ -1,0 +1,53 @@
+Creador de Java James Goslin
+creado en SUN microsystem 
+comprado con Oracle
+
+Java es un lenguaje de programacion de alto nivel
+
+Categorias de Java
+
+SE: Standard Edition
+EE: Enterprise Edition
+
+WORA -> Write once Run Anywhere
+
+JDK -> Java Development Kit 
+    Java Runtime Enviroment JRE
+    Compilador de Java
+    API de desarrollo
+
+la primera verion de java SE 11 es la primera que cobra 
+
+Archivos .java -> codigo fuene 
+Compilador javac -> se compija en jvm
+se convierte en lenguaje maquina byte code 
+se ejecta jvm
+
+1. Editar
+2. Compilar
+3. cargar
+4. verificar
+5. interpretar
+
+es compilado e interpretado 
+
+tipoa de variable: 
+
+String
+int
+double
+
+convencion camel case es la tecnica mas usada para nombrar variables
+
+Upper Lower Case -> para clases 
+Lower Upper case -> para variables
+
+Tipos de Datos Numericos: 
+    Int -> almacena hasta 10 digitos
+    byte -> -128 to 127 1 byte
+    short -> 2 bytes
+    long ->  4 bytes
+    double -> 8 bytes
+    float -> 4 bytes
+    char -> 2 bytes
+    boolean -> true//false
