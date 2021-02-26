@@ -11,9 +11,12 @@ public class Reto2
 		int myLeng = arr.length;
 		for(int x =0; x < myLeng; x++){
 			int y = myLeng -x - 1;
-			System.out.println(arr[y])
+			System.out.println(arr[y]);
 		}
-		
+
+		System.out.println(scanner);
+		System.out.println(text);
+		System.out.println(arr);
 	}
 
 }
