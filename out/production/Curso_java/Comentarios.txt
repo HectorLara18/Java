@@ -51,3 +51,35 @@ Tipos de Datos Numericos:
     float -> 4 bytes
     char -> 2 bytes
     boolean -> true//false
+
+operadores: 
+
++= -> a += b -> a = a + b
+-= -> a -= b -> a = a - b
+*= -> a *= b -> a = a * b
+/= -> a /= b -> a = a / b
+%= -> a %= b -> a = a % b
+
+operadores incremento y decremento: 
+
+++ -> a++ -> a = a + 1
+-- -> a-- -> a = a - 1
+
+prefijo -> ++a
+postfijo -> a++
+
+Archivo JAR -> Java ARchive
+
+como crear un archivo JAR
+
+como declarar funciones en java
+
+[Modo de acceo] [tipo de dato] [nombre] (argumentos) {
+    return
+}
+
+ejemplo:
+
+public int sum (int a, int b) {
+    return a+b;
+}
