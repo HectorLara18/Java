@@ -83,3 +83,6 @@ ejemplo:
 public int sum (int a, int b) {
     return a+b;
 }
+
+Las variables locales se almacenan en la memoria Stack y las variables objeto se almacenan en la memoria HEAP
+
